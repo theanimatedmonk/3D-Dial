@@ -33,7 +33,7 @@ A modern, interactive volume control dial with metallic design and real-time aud
 ```
 ├── index.html              # Main HTML with Inter font integration
 ├── script.js               # Core logic + audio system
-├── style.css               # Neomorphic styling with CSS variables  
+├── style.css               # Metallic styling with CSS variables  
 ├── neomorphic_dial.riv     # Rive animation file
 └── sounds/
     └── dial-sound.mp3      # Audio feedback file
